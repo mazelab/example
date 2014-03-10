@@ -1,6 +1,6 @@
 <?php
 /**
- * Maze.core
+ * example
  *
  * @license http://opensource.org/licenses/MIT MIT
  */
